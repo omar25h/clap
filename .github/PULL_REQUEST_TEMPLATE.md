@@ -1,5 +1,16 @@
+<!-- Thanks for helping out! -->
+
+### What does this PR try to solve?
+
+<!-- a maintainer-approved Issue is required for non-trivial changes -->
+Closes #<!-- Issue # -->
+
+### Notes to reviewers
+
 <!--
-If your PR closes some issues, please write `Closes #XXXX`
-where `XXXX` is the number of the issue you want to fix.
-Each issue goes on its own line.
+Examples:
+- Larger context this fits within
+- Manual testing and why it wasn't automated
 -->
+
+LLM involvement: <!-- TODO -->
